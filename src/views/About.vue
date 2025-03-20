@@ -37,6 +37,11 @@ export default {
           code: '44.01.104.055',
           name: 'Nguyễn Văn Công',
           description: 'Thiết kế trang web'
+        },
+        {
+          code: '48.01.104.114',
+          name: 'Võ Thiên Sơn',
+          description: 'Đưa trang web lên đám mây, tiếp tục phát triển trang web'
         }
       ]
     }
