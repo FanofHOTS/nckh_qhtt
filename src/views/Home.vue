@@ -25,18 +25,18 @@ export default {
     return {
       items: [
         {
-          title: 'Chương 1',
-          description: 'Bài toán quy hoạch tuyến tính',
+          title: 'Chương 2',
+          description: 'Phương pháp đơn hình',
           route: 'c1'
         },
         {
-          title: 'Chương 2',
+          title: 'Chương 3',
           description: 'Bài toán đối ngẫu',
           route: 'c2'
         },
         {
-          title: 'Chương 3',
-          description: 'Bài toán vận tải',
+          title: 'Chương 4',
+          description: 'Ứng dụng QHTT: bài toán vận tải',
           route: 'c3'
         }
       ]
