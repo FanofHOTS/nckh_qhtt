@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h2 class="text-2xl font-semibold text-center md:text-left">Chương 1</h2>
-    <p class="text-gray-700 text-center md:text-left">Bài toán quy hoạch tuyến tính</p>
+    <h2 class="text-2xl font-semibold text-center md:text-left">Chương 2</h2>
+    <p class="text-gray-700 text-center md:text-left">Phương pháp đơn hình</p>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 my-6">
       <div class="bg-white shadow-md p-5">
         <div class="flex mb-4">
