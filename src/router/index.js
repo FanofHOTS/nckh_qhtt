@@ -24,6 +24,11 @@ const router = createRouter({
       name: 'c3',
       component: () => import(/* webpackChunkName: "c3" */ '../views/c3/Index.vue')
     },
+    {
+      path: '/help',
+      name: 'help',
+      component: () => import(/* webpackChunkName: "help" */ '../views/help/Index.vue')
+    },
     // {
     //   path: '/c4',
     //   name: 'c4',
