@@ -38,6 +38,11 @@ export default {
           title: 'Chương 4',
           description: 'Ứng dụng QHTT: bài toán vận tải',
           route: 'c3'
+        },
+        {
+          title: 'Hướng dẫn sử dụng',
+          description: 'Hướng dẫn sử dụng công cụ này',
+          route: 'help'
         }
       ]
     }
