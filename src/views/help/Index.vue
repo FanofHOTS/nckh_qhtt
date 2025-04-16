@@ -13,9 +13,6 @@ import { VPdfViewer } from '@vue-pdf-viewer/viewer';
         <router-link class="align-baseline font-bold text-sm text-gray-500 hover:text-gray-700 mr-5" :to="{ name: 'home' }">
             &larr; Về trang chủ
         </router-link>
-        <router-link class="align-baseline font-bold text-sm text-gray-500 hover:text-gray-700 mr-5" :to="{ name: 'truec1' }">
-            Chương 1
-        </router-link>
         <router-link class="align-baseline font-bold text-sm text-gray-500 hover:text-gray-700 mr-5" :to="{ name: 'c1' }">
             Chương 2
         </router-link>
