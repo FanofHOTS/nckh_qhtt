@@ -329,11 +329,11 @@ function processing (paramFx, paramMatrix, paramRB, paramFxType) {
       continue
     }
     res += 'x<sub>' + (i + 1).toString() + '</sub> '
-    if (rb.rbdau[i] === 1) {
+    //if (rb.rbdau[i] === 1) {
       res += ' &ge; '
-    } else {
-      res += ' &le; '
-    }
+    //} else {
+      //res += ' &le; '
+    //}
     res += '0'
     if (i !== rb.n - 1) {
       res += ' , '
