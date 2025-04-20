@@ -25,6 +25,11 @@ export default {
     return {
       items: [
         {
+          title: 'Chương 1',
+          description: 'Chuyển Bài Toán Quy Hoạch Tuyến Tính Về Dạng Chính Tắc',
+          route: 'truec1'
+        },
+        {
           title: 'Chương 2',
           description: 'Phương pháp đơn hình',
           route: 'c1'
